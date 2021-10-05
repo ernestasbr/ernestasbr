@@ -1,0 +1,19 @@
+{
+  "name": "the_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestasbr/ernestasbr.git"
+  },
+  "author": "Ernestas Br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestasbr/ernestasbr/issues"
+  },
+  "homepage": "https://github.com/ernestasbr/ernestasbr#readme"
+}
